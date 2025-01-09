@@ -1,0 +1,1 @@
+Run the app or app2 using the streamlit run other codes are just scraps that i improved over the time
